@@ -1,7 +1,7 @@
 def game_hash
   hash = {
     home:
-      team_name: "Brooklyn Nets"
+      team_name: "Brooklyn Nets",
       colors: ["Black", "White"]
       players:
         "Alan Anderson" => {
@@ -21,7 +21,7 @@ def game_hash
           rebounds: 12
           assists: 12
           steals: 12
-          blocks: 12 
+          blocks: 12
           slam_dunks: 7
         }
         "Brook Lopez" => {
@@ -34,7 +34,7 @@ def game_hash
           blocks: 1
           slam_dunks: 15
         }
-        "Mason Plumlee" => { 
+        "Mason Plumlee" => {
           number: 1
           shoe: 19
           points: 26
